@@ -1,4 +1,4 @@
-/*! Hype ImageBaseEncoder.
+/*! Hype ImageBaseEncoder 1.1
 copyright (c) 2018 Max Ziebell, (https://maxziebell.de). MIT-license
 */
 /*
@@ -51,6 +51,7 @@ if("HypeImageBaseEncoder" in window === false) window['HypeImageBaseEncoder'] = 
    
     /* Reveal Public interface to window['HypeImageBaseEncoder'] */
     return {
+        version : '1.1',
         localConsoleOutput : localConsoleOutput
     };
 })();
