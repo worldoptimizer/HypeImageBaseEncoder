@@ -21,3 +21,15 @@ This little extension helps you inline images and reference them without any eff
 **Version:**\
 `1.0   Initial release with simple example`\
 `1.1   Added .svg support, jpeg extension and outputOnce`
+
+Content Delivery Network (CDN)
+--
+Latest minified version can be linked into your project using the following in the head section of your project:
+```html
+<script src="https://cdn.jsdelivr.net/gh/worldoptimizer/HypeImageBaseEncoder/HypeImageBaseEncoder.min.js"></script>
+```
+
+Optionally you can also link a SRI version or specific releases. Read more about that on the JsDelivr (CDN) page for this extension at https://www.jsdelivr.com/package/gh/worldoptimizer/HypeImageBaseEncoder
+
+Learn how to use the latest extension version and how to combine extentions into one file at
+https://github.com/worldoptimizer/HypeCookBook/wiki/Including-external-files-and-Hype-extensions
