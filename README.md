@@ -1,5 +1,6 @@
 # HypeImageBaseEncoder
 ![HypeImageBaseEncoder|690x487](https://playground.maxziebell.de/Hype/ImageBaseEncoder/HypeImageBaseEncoder.png) 
+<sup>The cover artwork is not hosted in this repository and &copy;opyrighted by Max Ziebell</sup>
 
 This little extension helps you inline images and reference them without any efforts in your Hype projects. This reduces further request to any files on the server. Turn those beautiful images into ugly little code frogs. It works the following way:
 
