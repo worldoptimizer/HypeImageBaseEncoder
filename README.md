@@ -1,5 +1,5 @@
 # HypeImageBaseEncoder
-![HypeImageBaseEncoder|690x487](https://playground.maxziebell.de/Hype/ImageBaseEncoder/HypeImageBaseEncoder.png) 
+![HypeImageBaseEncoder|690x487](https://playground.maxziebell.de/Hype/ImageBaseEncoder/HypeImageBaseEncoder.jpg) 
 <sup>The cover artwork is not hosted in this repository and &copy;opyrighted by Max Ziebell</sup>
 
 This little extension helps you inline images and reference them without any efforts in your Hype projects. This reduces further request to any files on the server. Turn those beautiful images into ugly little code frogs. It works the following way:
@@ -25,12 +25,13 @@ This little extension helps you inline images and reference them without any eff
 
 Content Delivery Network (CDN)
 --
-Latest minified version can be linked into your project using the following in the head section of your project:
+Latest version can be linked into your project using the following in the head section of your project:
 ```html
 <script src="https://cdn.jsdelivr.net/gh/worldoptimizer/HypeImageBaseEncoder/HypeImageBaseEncoder.min.js"></script>
 ```
 
-Optionally you can also link a SRI version or specific releases. Read more about that on the JsDelivr (CDN) page for this extension at https://www.jsdelivr.com/package/gh/worldoptimizer/HypeImageBaseEncoder
+Optionally you can also link a SRI version or specific releases. 
+Read more about that on the JsDelivr (CDN) page for this extension at https://www.jsdelivr.com/package/gh/worldoptimizer/HypeImageBaseEncoder
 
-Learn how to use the latest extension version and how to combine extentions into one file at
+Learn how to use the latest extension version and how to combine extensions into one file at
 https://github.com/worldoptimizer/HypeCookBook/wiki/Including-external-files-and-Hype-extensions
